@@ -1,4 +1,4 @@
-Site trata a apresentação do Mario e Luidi
+Site trata a apresentação de serviço do Mario e Luidi
 
 Que presta serviço de encanador
 O intuito da pagina e a divulgação da prestação de serviço de um autonomo utilizando o Mario Bros como tema.
