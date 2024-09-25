@@ -1,7 +1,7 @@
 <h1>Site trata a apresentação de serviço do Mario e Luidi</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que desenvolvemos no <a href:"htpps://rodolfomori.com.br/devclub">Dev Club</a></h2>
+<h2>Esse foi um projeto que desenvolvemos no <a href="htpps://rodolfomori.com.br/devclub">Dev Club</a></h2>
 <p>O intuito da pagina e a divulgação da prestação de serviço de um autonomo utilizando o Mario Bros como tema.
 Onde pode ser feita a solicitação do serviço pelo whatsapp disponivel na tela principal.</p>
 <br>
